@@ -1,0 +1,23 @@
+Q4. List any 3 ways which help us in imporving the accessibility of HTML.
+
+Answer - 
+
+Imporving the Accessibility - 
+
+* Use a CMS that supports accessibility : 
+
+when building a website, choose a content management system (CMS) that supports web accessibility. 
+Be sure that page layouts, themes, widgets, plugins, and other aspects are compatible with web 
+accessibility standards such as WCAG 2.0.
+
+* Assign alt tags for images :  
+
+Images on a webpage provide great value to users. Nonetheless, they can create barriers for users 
+with limited or impaired vision. Therefore, assigning alt tags to images will provide a description 
+of the images allowing users to understand the image through the use of a screen reader. Alt tags 
+also contribute to a higher SEO score on Google.
+
+* Use descriptive title for links : 
+
+Using descriptive titles for links will make it easier for those who rely on screen readers to navigate 
+your website to understand the purpose of the link and where they will be redirected.

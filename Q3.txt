@@ -1,0 +1,30 @@
+Q3. Define accessibility in the context of web development. Discuss why it's essential to create accessible 
+    websites and how it benefits different user groups.
+
+Answer - 
+
+Accessibility - 
+
+* Making web content usable for everyone.
+* Includes people with disabilities.
+* Ensure qual access to information.
+* Enhances user experience.
+* Part of web development best practices.
+
+
+Create Accessible - 
+
+* Legal compliance (e.g. ADA, WCAG).
+* Inclusivity and social responsibility.
+* Expands audience reach.
+* Improves SEO.
+* Benefites all users, not just those with disabilities.
+
+
+Benefits different user groups - its provideed access benefits to all people
+
+* Providing text alternatives to visual content
+* Providing text alternatives to audio content
+* Avoiding use of color to convey essential information
+* Using high-contrast foreground/background color
+* Avoiding flashing animations

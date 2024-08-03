@@ -1,0 +1,20 @@
+Q2. What are HTML Entities? List out 5 commonly used HTML entities.
+
+Answer - 
+
+HTML Entities - 
+
+* Special codes to display reserved characters.
+* Help display symbols that have special meanings in HTML.
+* Ensure characters are rendered correctly.
+* Prevent HTML code from breaking.
+* used to display invisible characters.
+
+
+commonly used HTML entities - 
+
+* &amp; for &
+* &lt; for <
+* &gt; for >
+* &quot; for "
+* &apos; for '

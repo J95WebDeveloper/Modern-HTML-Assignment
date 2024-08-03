@@ -1,0 +1,12 @@
+Q1. List out the features of HTML5.
+
+Answer - 
+
+features of HTML5 - 
+
+* New elements, attributes and behaviors support for multimedia, better error handling.
+* New tags like - <article>, <aside> and <figure>
+* Enhanced forms with new input types.
+* Built-in <audio> and <video>
+* Local storage for offline use.
+* Graphics and animations with <canvas> and <svg>
